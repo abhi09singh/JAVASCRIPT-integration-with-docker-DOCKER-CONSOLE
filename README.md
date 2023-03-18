@@ -16,3 +16,7 @@ Task Description 📄
   👉docker rm -f
   👉docker exec
   and much more......
+ 
+ Linkedin : https://www.linkedin.com/posts/abhinav-singh95_worldrecordholder-training-internship-activity-6811725627985584128-sB6A?utm_source=share&utm_medium=member_desktop
+ 
+ YouTube : https://youtu.be/DoPI1TunlU0
